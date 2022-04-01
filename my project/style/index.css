@@ -1,0 +1,485 @@
+body{
+font-family: Brandon-Text, Arial, sans-serif;
+}
+
+#container {
+  width: 96%;
+  margin: auto;
+  /* border: 1px solid green; */
+  padding-top:180px;
+
+
+
+}
+
+#text {
+  /* border: 1px solid red; */
+  text-align: center;
+  font-family: Brandon-Text, Arial, sans-serif;
+  margin-bottom: 10px;
+}
+
+#btn {
+  text-align: center;
+}
+
+#btn button {
+  width: 270px;
+  height: 40px;
+  border: 1px solid #0183a2;
+  background-color: white;
+  color: #0183a2;
+  font-family: Brandon Text, Arial, sans-serif;
+}
+
+#btn button:hover {
+  color: white;
+  background-color: #0183a2;
+}
+
+#offers_img {
+  width: 100px;
+}
+
+#offers_img {
+  /* border: 1px solid red; */
+  width: 100%;
+  padding-top: 60px;
+}
+
+#offers_img>img {
+  width: 100%;
+
+}
+
+#slideshow>img {
+  width: 100%;
+  height: 650px;
+}
+
+#slideshow {
+  width: 100%;
+  height: 610px;
+  margin: auto;
+  padding-top: 60px;
+  /* border: 1px solid red; */
+}
+
+#moredetails>a {
+  color: #0183a2;
+  text-decoration: underline;
+}
+
+#slideshow_text {
+  width: 100%;
+
+  /* border: 1px solid black; */
+  padding-left: 10px;
+}
+
+#onlineOnly {
+
+  text-align: center;
+  /* border: 1px solid red; */
+  padding: 50px;
+
+}
+
+h3,
+h5 {
+  font-weight: bolder
+}
+
+#trends {
+  width: 100%;
+  height: 780px;
+  /* border: 1px solid red; */
+}
+
+#trends_text {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  /* border: 1px solid red; */
+  padding: 50px;
+}
+
+#trends_div {
+  /* border: 1px solid black; */
+  width: 100%;
+  display: flex;
+}
+
+#left {
+  /* border: 1px solid black; */
+  width: 49%;
+}
+
+#right {
+  /* border: 1px solid greenyellow; */
+  width: 49%;
+  margin-left: 30px;
+
+}
+
+#trends_div img {
+  width: 740px;
+}
+
+#trends_img_text {
+  padding-top: 10px;
+}
+
+#trending_now_text {
+  padding-top: 60px;
+}
+
+
+#offers_img {
+  background-image: url("https://n.nordstrommedia.com/id/0d6206dd-8316-4f76-b2f6-992cd3a173fc.jpeg?h=200&w=1334");
+  background-size: contain;
+  /* border: 1px solid red; */
+  height: 220px;
+  margin-top: 50px;
+}
+
+#offers_img2 {
+  background-image: url("https://n.nordstrommedia.com/id/ada19f59-fec4-4365-95a8-458a289a9303.jpeg?h=180&w=1600");
+  background-size: contain;
+  /* border: 1px solid red; */
+  height: 162px;
+  margin-top: 100px;
+
+}
+
+#offers_img p {
+  padding-left: 340px;
+  line-height: 12px;
+}
+
+.p {
+  padding-top: 100px;
+}
+
+#offers_img2 p {
+  padding-left: 728px;
+  line-height: 12px;
+}
+
+#bag_cat {
+  width: 80%;
+  margin: auto;
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+
+}
+
+#cloth_cat {
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+
+}
+
+#bag_cat>div,
+#cloth_cat>div {
+  font-size: 20px;
+}
+
+#cloth_cat>#cloth1:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+#cloth_cat>#cloth2:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+#bag_cat>#bag1:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+#bag_cat>#bag2:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+#bag_cat>#bag3:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+#bag_cat>#bag4:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+#bag_cat>#bag5:hover {
+  text-decoration: underline;
+  color: gray;
+}
+
+.bag_variety {
+  display: flex;
+  gap: 50px;
+  /* border: 1px solid red; */
+
+}
+#bag_display {
+  margin-top: 50px;
+  display: flex;
+  gap: 50px;
+  /* border: 1px solid black; */
+}
+#bag_display >.img {
+  height: 400px;
+ width: 250px;
+ /* border: 1px solid red; */
+}
+
+#cloth_display {
+  margin-top: 50px;
+  display: flex;
+  gap: 50px;
+}
+#trend_display {
+  margin-top: 50px;
+  display: flex;
+  gap: 50px;
+  margin-bottom: 100px;
+}
+#best_display {
+  margin-top: 50px;
+  display: flex;
+  gap: 50px;
+  margin-bottom: 100px;
+}
+
+#image {
+  width: 180px;
+  height: 250px;
+  margin: 10px 0 20px 0;
+}
+
+#slideshow1>img {
+  /* border: 1px solid red; */
+  width: 100%;
+}
+
+.yellow {
+  color: #0183a2;
+}
+
+
+
+#spring_div {
+  height: 650px;
+  /* border: 1px solid red; */
+}
+
+#spring_text {
+  text-align: center;
+  /* border: 1px solid red; */
+  padding: 50px;
+}
+
+#spring_div {
+  /* border: 1px solid red; */
+  display: flex;
+}
+
+#spring_image {
+  width: 495px;
+}
+
+#springcard a {
+  color: #0183a2;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#springcard p {
+  color: gray;
+}
+
+
+#More_to_Know_text {
+  text-align: center;
+  /* border: 1px solid red; */
+  padding: 50px;
+}
+
+#More_to_Know_div {
+  /* border: 1px solid red; */
+  display: flex;
+}
+
+#MoretoKnow_image {
+  width: 372px;
+}
+
+#MoretoKnow a {
+  color: #0183a2;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#MoretoKnow h6 {
+  font-weight: bolder;
+  padding-top: 10px;
+}
+
+#MoretoKnow p {
+  color: gray;
+}
+
+
+
+#RackYourLook {
+  padding: 100px 0 50px 0;
+  text-align: center;
+}
+
+#RackYourLook p {
+  color: gray;
+}
+
+#RackYourLook_cat {
+  display: flex;
+  justify-content: space-around;
+}
+
+#RackYourLook_cat img {
+  width: 288px;
+  height: 288px;
+  gap: 10px;
+  border-radius: 10px;
+}
+
+/* #one:hover {
+  cursor: pointer;
+  background: url("images/card-front.jpg") no-repeat;
+} */
+
+
+
+/* ......................................................................... */
+.one {
+  position: relative;
+}
+
+#one {
+  display: block;
+  width: 288px;
+  height: auto;
+}
+
+.one:hover .overlay {
+  opacity: 1;
+}
+
+
+/* ......................................................................... */
+.two {
+  position: relative;
+
+}
+
+#two {
+  display: block;
+  width: 288px;
+  height: auto;
+}
+
+.two:hover .overlay {
+  opacity: 1;
+}
+
+/* ......................................................................... */
+.three {
+  position: relative;
+
+}
+
+#three {
+  display: block;
+  width: 288px;
+  height: auto;
+}
+
+.three:hover .overlay {
+  opacity: 1;
+}
+
+/* ......................................................................... */
+.four {
+  position: relative;
+
+}
+
+#four {
+  display: block;
+  width: 288px;
+  height: auto;
+}
+
+.four:hover .overlay {
+  opacity: 1;
+}
+
+/* ......................................................................... */
+.five {
+  position: relative;
+
+}
+
+#five {
+  display: block;
+  width: 288px;
+  height: auto;
+}
+
+.five:hover .overlay {
+  opacity: 1;
+}
+
+
+/* ......................................................................... */
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgba(24, 22, 22, 0.74);
+  border-radius: 10px;
+}
+
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+#bag_cat button{
+  border: none;
+  background-color: white;
+}

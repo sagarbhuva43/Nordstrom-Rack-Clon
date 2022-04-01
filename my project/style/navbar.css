@@ -1,0 +1,256 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  } */
+
+  #navbar {
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 160px;
+    position: fixed;
+    background-color: white;
+  }
+
+  #offers {
+    height: 24%;
+    /* border: 1px solid red; */
+    background-color: #e1251b;
+    color: white;
+  }
+
+  #offers>p {
+    display: block;
+    font-family: Brandon Text, Arial, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 10px;
+  }
+
+  #offers>p>a {
+    color: white;
+    font-family: Brandon Text, Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  #logo {
+    height: 40%;
+    /* border: 1px solid red; */
+  }
+
+  /* #navbar-categories {
+    height: 24%;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+  } */
+
+  .logo>a>img {
+    height: 40px;
+    width: 85%;
+    /* border: 1px solid red; */
+  }
+
+  #logo {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+  }
+
+  #signin_bag {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  a {
+    text-decoration: none;
+    font-family: Brandon Text, Arial, sans-serif;
+    color: black;
+  }
+
+  #navbar-categories>a:nth-child(1) {
+    color: red;
+  }
+
+  #navbar-categories>a:nth-child(11) {
+    color: #0183a2;
+  }
+
+  #search {
+    display: flex;
+  }
+
+  #sing {
+    display: flex;
+  }
+
+  .logo {
+    width: 80%;
+    /* border: 1px solid red; */
+    padding-right: 1040px;
+  }
+
+  #signin_bag {
+    width: 16%;
+    /* border: 1px solid red; */
+    margin-top: 14px;
+  }
+
+  #bag {
+    width: 4%;
+    /* border: 1px solid red; */
+    margin-top: 8px;
+  }
+
+  /* ............................................................................................. */
+  body {
+    font-family: Brandon Text, Arial, sans-serif;
+  }
+
+  .navbar {
+    font-family: Brandon Text, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 14px !important;
+    padding-top: 20px !important;
+    z-index: 2 !important;
+  }
+
+  #navbar-categories{
+
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(11,22%);
+  }
+
+
+  .navbar-profile-items {
+    flex-grow: 1;
+    margin-top: 3px;
+    /* border: 1px solid red; */
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 11px;
+    /* margin-right: 10%; */
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bi {
+    line-height: 18px;
+    /* border: 1px solid red; */
+    margin: 0;
+    font-size: 20px;
+  }
+
+  .bi-search {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .navbar-categories-li {
+    justify-content: center;
+    /* border: 1px solid red; */
+    flex-grow: 1;
+    display: flex;
+    align-items: top;
+    /* border: 1px solid red; */
+  }
+
+  .navbar-categories-li:nth-child(6):hover {
+    cursor: pointer;
+    border-bottom: 4px solid #ff3f6c;
+  }
+
+  .navbar-profile-items:nth-child(1):hover {
+    cursor: pointer;
+    border-bottom: 4px solid #f16565;
+  }
+
+  #navbar-search-box {
+    margin-top: -24px !important;
+  }
+
+  .navbar-mapping-div {
+    background-color: white;
+    /* flex-wrap: wrap; */
+    box-sizing: border-box;
+    padding: 15px 15px 0px 30px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    position: absolute;
+    align-items: flex-start;
+    z-index: 2;
+    margin: auto;
+    /* border: 1px solid red; */
+    height: 450px;
+    width: 100%;
+    margin: 477px 0 0 0;
+  }
+
+  .hidden {
+    display: none !important;
+  }
+
+  #nav_map_innerBox {
+    display: flex;
+    flex-direction: column;
+    border: none;
+  }
+
+  .nav_innerBox_text {
+    font-size: 13px;
+    margin-bottom: 6px;
+    font-weight: 400;
+  }
+
+  .nav_innerBox_text:hover {
+    /* cursor: pointer; */
+    font-weight: 700 !important;
+  }
+
+  .fade-in {
+    opacity: 1;
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+    animation-duration: 0.35s;
+  }
+
+  @keyframes fadeInOpacity {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+  }
+
+
+  #overlay {
+    position: fixed;
+    top: 10px;
+    left: 0;
+    z-index: 1;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    opacity: 0.2;
+  }
+
+
+  /* .navbar-profile-items {
+    cursor: pointer;
+  } */
+
+  #dropdownMenuOffset{
+    border: none;
+    background-color: white;
+    color: black;
+  }
+  .d-flex #input111{
+width: 280px;
+  }
