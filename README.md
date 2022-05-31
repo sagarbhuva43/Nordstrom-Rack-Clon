@@ -19,12 +19,14 @@ Javascript, HTML, CSS ,Bootstrap
 <br>
 ## Screenshots
 - Home Page
+
 ![Home page](https://miro.medium.com/max/875/1*-zADWZy1zQBP8zL6HDpMAQ.png)
 ![Home page](https://miro.medium.com/max/875/1*rP6UvWC0hdVoVQBk2iQt2w.png)
 ![Home page](https://miro.medium.com/max/875/1*cGYCeLUpa6R9UmU9zr_U2w.png)
 ![Home page](https://miro.medium.com/max/875/1*uKXkvgtKaWambsrB4fU4Jw.png)
 ![Home page](https://miro.medium.com/max/875/1*Y67oMyxuI-HZBxTE4HZ7HQ.png)
 ![Home page](https://miro.medium.com/max/875/1*Y67oMyxuI-HZBxTE4HZ7HQ.png)
+
 - Sign Up
 ![Sign Up](https://miro.medium.com/max/875/1*V2KgEOkB1oyEHPvRafnP3Q.png)
 - login page
