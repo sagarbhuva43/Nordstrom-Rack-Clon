@@ -25,7 +25,6 @@ Javascript, HTML, CSS ,Bootstrap
 ![Home page](https://miro.medium.com/max/875/1*cGYCeLUpa6R9UmU9zr_U2w.png)
 ![Home page](https://miro.medium.com/max/875/1*uKXkvgtKaWambsrB4fU4Jw.png)
 ![Home page](https://miro.medium.com/max/875/1*Y67oMyxuI-HZBxTE4HZ7HQ.png)
-![Home page](https://miro.medium.com/max/875/1*Y67oMyxuI-HZBxTE4HZ7HQ.png)
 
 - Sign Up
 -
