@@ -28,17 +28,30 @@ Javascript, HTML, CSS ,Bootstrap
 ![Home page](https://miro.medium.com/max/875/1*Y67oMyxuI-HZBxTE4HZ7HQ.png)
 
 - Sign Up
+-
 ![Sign Up](https://miro.medium.com/max/875/1*V2KgEOkB1oyEHPvRafnP3Q.png)
+
 - login page
+
 ![login page](https://miro.medium.com/max/875/1*mzxEoAQLthTIsZNpG2AlnQ.png)
+
 - Product’s Page
+-
 ![Search Result Page](https://miro.medium.com/max/875/1*EZdlwAbclZl_90eFvcJBrg.png)
 ![Search Result Page](https://miro.medium.com/max/875/1*T_Cpcb2YitwI4JgBhydK5Q.png)
+
 - Cart Page
+
 ![Booking Page](https://miro.medium.com/max/875/1*eMwVCz0QGdLfPzVr_G5j3Q.png)
+
 - Address Details Page
+
 ![Checkout Page](https://miro.medium.com/max/875/1*iGQ4sWsEnOQm6EBSbSXr5g.png)
+
 - Payment Page
+
 ![Checkout Page](https://miro.medium.com/max/875/1*KgYE2do_u05RWddTUZ8_Wg.png)
+
 - OTP Verification Page
+
 ![Checkout Page](https://miro.medium.com/max/875/1*2YVKqVJQMV5895pSJPxmnQ.png)
