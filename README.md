@@ -36,7 +36,7 @@ Javascript, HTML, CSS ,Bootstrap
 ![login page](https://miro.medium.com/max/875/1*mzxEoAQLthTIsZNpG2AlnQ.png)
 
 - Product’s Page
--
+
 ![Search Result Page](https://miro.medium.com/max/875/1*EZdlwAbclZl_90eFvcJBrg.png)
 ![Search Result Page](https://miro.medium.com/max/875/1*T_Cpcb2YitwI4JgBhydK5Q.png)
 
